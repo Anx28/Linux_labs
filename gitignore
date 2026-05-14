@@ -1,0 +1,18 @@
+# Сгенерированные директории внутри любой лабы
+# (создаются через ./generate.sh, не должны лежать в репе)
+**/workspace/
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Случайные локальные заметки
+TODO_local.md
+notes_local.md
